@@ -3,7 +3,7 @@ A galaxy map for No man's sky in HTML
 
 Here is the link of the website https://bopsop.github.io/No-Man-s-Sky-Galaxy-map-website/
 
-version 2 of the website https://bopsop.github.io/No-Man-s-Sky-Galaxy-map-website-v2/
+version 2.1 of the website https://bopsop.github.io/No-Man-s-Sky-Galaxy-map-website-v2/
 
 if you want to access the Galaxy map Without Any internet connection download the HTML from the releases page 
 
